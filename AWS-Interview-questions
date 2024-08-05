@@ -1,0 +1,7 @@
+What is an IAM Role in AWS, and how does it differ from an IAM User?
+Can you explain what an IAM Trust Policy is and give an example of when you would use one?
+How do you create an S3 Bucket Policy, and what is its purpose?
+What are the key differences between an Application Load Balancer (ALB) and a Network Load Balancer (NLB) in AWS?
+How are targets registered with an ALB and an NLB, and what are the health check options?
+What is User Data in an AWS EC2 instance, and how is it typically used?
+
